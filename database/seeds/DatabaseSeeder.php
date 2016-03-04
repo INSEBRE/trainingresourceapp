@@ -287,7 +287,7 @@ class TrainingResourceTableSeeder extends Seeder
                 'training_resource_short_name' => 'usoc',
                 'training_resource_description' => 'Cursos adreçats a persones en atur als quals se\'ls fa un contracte temporal.',
                 'training_resource_thumbnail' => 'logo_usoc.jpg',
-                'training_resource_external_url' => 'http://www.usoc.cat/ensenyament/',
+                'training_resource_external_url' => 'http://www.fep-usoc.com/',
                 'training_resource_parentResourceId' => '2',
                 'training_resource_softDeleted' => 'false',
                 'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
@@ -373,6 +373,17 @@ class TrainingResourceTableSeeder extends Seeder
 
             array(
                 'training_resource_id' => '82',
+                'training_resource_name' => 'USOC',
+                'training_resource_short_name' => 'usoc',
+                'training_resource_description' => 'Cursos adreçats a persones en atur als quals se\'ls fa un contracte temporal.',
+                'training_resource_thumbnail' => 'logo_usoc.jpg',
+                'training_resource_external_url' => 'http://www.uso.es/formacion/',
+                'training_resource_parentResourceId' => '3',
+                'training_resource_softDeleted' => 'false',
+                'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
+
+            array(
+                'training_resource_id' => '83',
                 'training_resource_name' => 'CENTRE D\'ESTUDIS BAYERRI',
                 'training_resource_short_name' => 'centre-estudis-bayerri',
                 'training_resource_description' => 'Cursos de formació subvencionats: per a persones desocupades, joves inscrits al col·lectiu de Garantia Juvenil, persones en actiu. Cursos de formació contínua per a empreses i formació privada',
@@ -383,7 +394,7 @@ class TrainingResourceTableSeeder extends Seeder
                 'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
 
             array(
-                'training_resource_id' => '83',
+                'training_resource_id' => '84',
                 'training_resource_name' => 'FORMACIÓ TERRES DE L\'EBRE',
                 'training_resource_short_name' => 'formació_terres-delebre',
                 'training_resource_description' => 'Escola de soldadura',
@@ -398,6 +409,17 @@ class TrainingResourceTableSeeder extends Seeder
              */
             array(
                 'training_resource_id' => '90',
+                'training_resource_name' => 'USOC',
+                'training_resource_short_name' => 'usoc',
+                'training_resource_description' => 'Cursos adreçats a persones en atur als quals se\'ls fa un contracte temporal.',
+                'training_resource_thumbnail' => 'logo_usoc.jpg',
+                'training_resource_external_url' => 'https://web.feusoc.cat/course/',
+                'training_resource_parentResourceId' => '4',
+                'training_resource_softDeleted' => 'false',
+                'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
+
+            array(
+                'training_resource_id' => '91',
                 'training_resource_name' => 'ESCOLA DE L\'ESPLAI DE TORTOSA',
                 'training_resource_short_name' => 'escola_espai',
                 'training_resource_description' => ' Cursos de monitors/directors de lleure infantil i juvenil, Cursos monogràfics de l\'àmbit del lleure educatiu (monitors de menjador, vetlladors, premonitors, ...)',
@@ -408,7 +430,7 @@ class TrainingResourceTableSeeder extends Seeder
                 'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
 
             array(
-                'training_resource_id' => '91',
+                'training_resource_id' => '92',
                 'training_resource_name' => 'PUNT ÒMNIA',
                 'training_resource_short_name' => 'punt-omnia',
                 'training_resource_description' => 'Activitats, cursos i tallers per millorar les competències digitals i per apropar el seu ús a aspectes com l\'orientació laboral, l\'èxit escolar, etc.',
@@ -418,7 +440,7 @@ class TrainingResourceTableSeeder extends Seeder
                 'training_resource_softDeleted' => 'false',
                 'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
 
-            array('training_resource_id' => '92',
+            array('training_resource_id' => '93',
                 'training_resource_name' => 'AECE',
                 'training_resource_short_name' => 'aece',
                 'training_resource_description' => 'Associació ',
@@ -428,7 +450,7 @@ class TrainingResourceTableSeeder extends Seeder
                 'training_resource_softDeleted' => 'false',
                 'training_resource_softDeletedDate' => '0000-00-00 00:00:00'),
 
-            array('training_resource_id' => '93',
+            array('training_resource_id' => '94',
                 'training_resource_name' => 'CNLTE',
                 'training_resource_short_name' => 'cnlte',
                 'training_resource_description' => 'Centre de Normalització Lingüística de les Terres de l\'Ebre',
